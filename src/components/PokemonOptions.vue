@@ -18,13 +18,15 @@ export default {
 <style scoped>
 ul {
   list-style-type: none;
+  margin-top: 50px;
 }
 li {
   background-color: white;
   border-radius: 5px;
   border: 1px solid rgba(0, 0, 0, 0.2);
   cursor: pointer;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  padding: 5px 0;
   width: 250px;
 }
 
